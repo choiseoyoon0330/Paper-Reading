@@ -1,3 +1,3 @@
 # Paper-Reading
 
-- AlexNet [slides]
+- AlexNet [[slides]](AlexNet.pdf)
