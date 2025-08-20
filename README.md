@@ -1,5 +1,5 @@
 # Paper-Reading
 
 - AlexNet [[slides]](AlexNet.pdf)
-- VGG
+- VGGNet
 - ResNet
