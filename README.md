@@ -1,6 +1,6 @@
 # Paper-Reading
 
 ## CNN
-- AlexNet [[slides]](AlexNet.pdf)
+- AlexNet [[slides]](CNN/AlexNet.pdf)
 - VGGNet
 - ResNet
